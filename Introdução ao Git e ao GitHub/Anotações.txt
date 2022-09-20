@@ -1,0 +1,15 @@
+comandos para decorar 
+git status 
+git add *
+git commit -m "comentário"
+git push/pull origin master
+pull quando ha erro de arquivos diferentes - mesclar merge 
+
+
+adicionar o diretorio no git
+git remote add origin colar https
+
+listar os links de repositório
+git remote -v
+
+ls -a lista pastas ocultas
